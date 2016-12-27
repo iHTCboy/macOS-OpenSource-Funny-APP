@@ -34,3 +34,22 @@ Using JSONExport you will be able to:
 * Set package name for Java files.
 
 ================
+
+#12306ForMac
+==========
+Mac版12306 订票/捡票 助手。
+
+[JSONExport - GitHub](https://github.com/fancymax/12306ForMac)
+
+以前要么开Windows虚拟机，要么使用官方Web，现在可以使用12306ForMac订票助手。
+
+注意系统要求  **OS X10.11**  以上
+
+#下载
+[Mac App Store](https://itunes.apple.com/cn/app/ding-piao-zhu-shou/id1163682213?l=zh&ls=1&mt=12)
+
+![demo](screenshot/12306ForMac.jpg)
+
+================
+
+
