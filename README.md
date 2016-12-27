@@ -39,7 +39,7 @@ Using JSONExport you will be able to:
 ==========
 Mac版12306 订票/捡票 助手。
 
-[JSONExport - GitHub](https://github.com/fancymax/12306ForMac)
+[12306ForMac - GitHub](https://github.com/fancymax/12306ForMac)
 
 以前要么开Windows虚拟机，要么使用官方Web，现在可以使用12306ForMac订票助手。
 
