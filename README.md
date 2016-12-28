@@ -45,7 +45,7 @@ Mac版12306 订票/捡票 助手。
 
 注意系统要求  **OS X10.11**  以上
 
-#下载
+- App Store下载
 [Mac App Store](https://itunes.apple.com/cn/app/ding-piao-zhu-shou/id1163682213?l=zh&ls=1&mt=12)
 
 ================
