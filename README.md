@@ -53,9 +53,25 @@ Mac版12306 订票/捡票 助手。
 
 #MacDown
 ==========
+[MacDown](https://github.com/MacDownApp/macdown)
+
 MacDown is an open source Markdown editor for OS X, released under the MIT License. The author stole the idea from [Chen Luo](https://twitter.com/chenluois)’s [Mou](http://mouapp.com) so that people can [make crappy clones](https://twitter.com/remaerd/status/484914820408279040).
 
 ================
+
+
+#GitHub Desktop
+================
+[GitHub Desktop](https://github.com/desktop/desktop)
+
+GitHub Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
+
+
+================
+
+
+================
+
 
 
 
