@@ -107,3 +107,12 @@ CubicBezier Generator for macOS,This Tools is inspired by cubic-bezier.com.
 
 ---
 
+### BingWallPaper
+Mac menubar app. Automate download daily picture from Microsoft Bing website and set it as your wallpaper. Written in Swift3.
+
+[Github](https://github.com/zekunyan/TTGBingWallPaper)
+
+---
+
+
+
