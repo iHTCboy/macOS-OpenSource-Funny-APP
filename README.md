@@ -114,5 +114,15 @@ Mac menubar app. Automate download daily picture from Microsoft Bing website and
 
 ---
 
+### CocoaPods app
+The foremost goal of CocoaPods.app is to provide a full-featured and standalone installation of CocoaPods, instead of requiring users to install CocoaPods through RubyGems or Homebrew. In addition to easy installation, it also includes ease of updating.
+
+It is able to expose this standalone installation in a command-line interface environment through the pod command-line tool, which it will request to install on launch of the application or through the ‘Install the Command-Line Tool…’ menu item under the application menu.
+
+[Github](https://github.com/cocoapods/cocoapods-app)
+
+---
+
+
 
 
