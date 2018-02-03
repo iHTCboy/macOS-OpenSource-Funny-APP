@@ -123,6 +123,12 @@ It is able to expose this standalone installation in a command-line interface en
 
 ---
 
+### iTerm2
+iTerm2 is a terminal emulator for Mac OS X that does amazing things. http://iterm2.com/
+
+[Github](https://github.com/gnachman/iTerm2)
+
+---
 
 
 
