@@ -132,3 +132,11 @@ iTerm2 is a terminal emulator for Mac OS X that does amazing things. http://iter
 
 
 
+### Spectacle
+Spectacle allows you to organize your windows without using a mouse. https://spectacleapp.com/
+
+[Github](https://github.com/eczarny/spectacle)
+
+---
+
+
