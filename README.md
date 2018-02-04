@@ -140,3 +140,12 @@ Spectacle allows you to organize your windows without using a mouse. https://spe
 ---
 
 
+
+### SpechtLite
+A rule-based proxy app for macOS.
+
+[Github](https://github.com/zhuhaow/SpechtLite)
+
+---
+
+
