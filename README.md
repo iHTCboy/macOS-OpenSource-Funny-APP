@@ -148,4 +148,15 @@ A rule-based proxy app for macOS.
 
 ---
 
+### Boostnote
+Note-taking app for programmers.
+
+Apps available for Mac, Windows, Linux, Android and iOS.
+
+Built with Electron, React + Redux, Webpack and CSSModules.
+
+[Github](https://github.com/BoostIO/Boostnote)
+
+---
+
 
