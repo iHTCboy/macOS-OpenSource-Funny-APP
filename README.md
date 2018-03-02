@@ -168,6 +168,7 @@ Loading是一个简单的应用程序，在你的菜单栏可用，它看起来�
 
 
 [Github](https://github.com/BonzaiThePenguin/Loading)
+
 [Loading - 当应用程序所使用的网络看到](http://bonzaiapps.com/zh-cn/loading/)
 
 ---
