@@ -160,3 +160,15 @@ Built with Electron, React + Redux, Webpack and CSSModules.
 ---
 
 
+
+### Loading
+Loading See when Mac apps are using your network
+
+Loading是一个简单的应用程序，在你的菜单栏可用，它看起来是这样的：一个固定车轮。当一个应用程序使用网络时，它看起来是这样的：一个纺车。这就像你的iPad和iPhone！您也可以点击图标来查看哪些应用程序正在使用的网络。Loading组织的应用程序分为两类：应用程序正在使用您的网络，现在，所使用的网络应用程序最近。
+
+
+[Github](https://github.com/BonzaiThePenguin/Loading)
+[Loading - 当应用程序所使用的网络看到](http://bonzaiapps.com/zh-cn/loading/)
+
+---
+
