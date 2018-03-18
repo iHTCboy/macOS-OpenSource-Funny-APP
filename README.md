@@ -173,3 +173,23 @@ Loading是一个简单的应用程序，在你的菜单栏可用，它看起来�
 
 ---
 
+
+### Gifski
+
+This is a macOS app for the [`gifski` encoder](https://gif.ski), which converts videos to GIF animations using [`pngquant`](https://pngquant.org)'s fancy features for efficient cross-frame palettes and temporal dithering. It produces animated GIFs that use thousands of colors per frame.
+
+**[Blog post](https://blog.sindresorhus.com/gifski-972692460aa5)** &nbsp;&nbsp; **[Product Hunt](https://www.producthunt.com/posts/gifski)**
+
+Requires macOS 10.13 or later.
+
+
+## Download
+
+[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
+
+[Github](https://github.com/sindresorhus/gifski-app)
+
+---
+
+
+
