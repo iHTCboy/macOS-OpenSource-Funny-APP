@@ -191,5 +191,12 @@ Requires macOS 10.13 or later.
 
 ---
 
+## SBPlayerClient
 
+基于VLC 开发的macOS平台,支持全格式的mac版免费视频播放器
+
+[Github](https://github.com/shibiao/SBPlayerClient)
+
+
+---
 
