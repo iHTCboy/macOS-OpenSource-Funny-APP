@@ -200,3 +200,15 @@ Requires macOS 10.13 or later.
 
 ---
 
+
+## JSONConverter
+
+JSONConverter可以快速的把json数据转换生成OC/Swift的属性,省去手动创建的麻烦，大大提高iOSer的开发效率
+
+[Github](https://github.com/iosyaowei/JSONConverter)
+
+教程：http://www.cocoachina.com/ios/20180315/22610.html
+
+---
+
+
