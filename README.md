@@ -211,4 +211,20 @@ JSONConverter可以快速的把json数据转换生成OC/Swift的属性,省去手
 
 ---
 
+## IINA
+
+The modern video player for macOS.
+<p align=center>
+<a href="https://lhc70000.github.io/iina/">Website</a> · 
+<a href="https://github.com/lhc70000/iina/releases">Releases</a> · 
+<a href="https://t.me/joinchat/AAAAAEBemW7dU8X7IHShwQ">Telegram Group</a>
+</p>
+
+[Github](https://github.com/lhc70000/iina)
+
+教程：https://sspai.com/post/40870
+
+
+---
+
 
