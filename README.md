@@ -227,4 +227,10 @@ The modern video player for macOS.
 
 ---
 
+## GitUp
+Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived.
+
+[Github](https://github.com/git-up/GitUp)
+---
+
 
