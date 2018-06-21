@@ -231,6 +231,7 @@ The modern video player for macOS.
 Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived.
 
 [Github](https://github.com/git-up/GitUp)
+
 ---
 
 
@@ -248,6 +249,7 @@ WWDC for macOS allows both attendees and non-attendees to access WWDC livestream
 ⬇️ If you just want to download the latest release, go to [the website](https://wwdc.io/).
 
 [Github](https://github.com/insidegui/WWDC)
+
 ---
 
 
