@@ -252,5 +252,13 @@ WWDC for macOS allows both attendees and non-attendees to access WWDC livestream
 
 ---
 
+### Penc
+Penc is yet another window manager app for macOS. Instead of complicated keyboard shortcuts, Penc is designed for trackpad usage.
+
+[Github](https://github.com/dgurkaynak/Penc)
+
+---
+
+
 
 
