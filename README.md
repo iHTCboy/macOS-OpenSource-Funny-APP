@@ -259,6 +259,11 @@ Penc is yet another window manager app for macOS. Instead of complicated keyboar
 
 ---
 
+### TomatoBar
+Pomodoro Technique timer for macOS with Touch Bar support
 
+[Github](https://github.com/ivoronin/TomatoBar)
+
+---
 
 
