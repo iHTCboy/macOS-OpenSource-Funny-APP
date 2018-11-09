@@ -1,5 +1,5 @@
-# Mac-OpenSource-Funny-APP
-Collection Mac-OpenSource-Funny-APP List.
+# macOS-OpenSource-Funny-APP
+Collection macOS-OpenSource-Funny-APP List.
 
 ---
 
@@ -263,6 +263,14 @@ Penc is yet another window manager app for macOS. Instead of complicated keyboar
 Pomodoro Technique timer for macOS with Touch Bar support
 
 [Github](https://github.com/ivoronin/TomatoBar)
+
+---
+
+### Clean-Me
+
+A small macOS app that acts as a system cleaner (logs, cache, ...)
+
+[Github](https://github.com/Kevin-De-Koninck/Clean-Me)
 
 ---
 
