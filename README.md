@@ -274,4 +274,11 @@ A small macOS app that acts as a system cleaner (logs, cache, ...)
 
 ---
 
+### MPlayerX
+
+media player on Mac OS X http://mplayerx.org
+
+[Github](https://github.com/niltsh/MPlayerX)
+
+---
 
