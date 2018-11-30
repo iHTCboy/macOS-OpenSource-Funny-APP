@@ -282,3 +282,29 @@ media player on Mac OS X http://mplayerx.org
 
 ---
 
+### SubEthaEdit
+
+General purpose plain text editor for macOS. Widely known for its live collaboration feature. https://subethaedit.net
+
+[Github](https://github.com/subethaedit/SubEthaEdit)
+
+---
+
+### Detox Instruments
+
+Detox Instruments is a performance–analysis and testing framework, designed to help developers profile their mobile apps in order to better understand and optimize their behavior and performance. In addition, Detox Instruments includes utilities for managing your app's resources, such user defaults, pasteboard, cookies, etc.
+
+[Github](https://github.com/wix/DetoxInstruments)
+
+---
+
+### NetNewsWire
+
+Feed reader for macOS. https://ranchero.com/netnewswire/
+
+[Github](https://github.com/brentsimmons/NetNewsWire)
+
+---
+
+
+
