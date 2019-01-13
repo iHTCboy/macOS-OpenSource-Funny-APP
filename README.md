@@ -306,5 +306,24 @@ Feed reader for macOS. https://ranchero.com/netnewswire/
 
 ---
 
+### TinyPNG4Mac
+
+This is a client of TinyPNG for Mac, with which you can compress pngs without open browser and manually download images, all you need to do is just drag and drop.
+
+[Github](https://github.com/kyleduo/TinyPNG4Mac)
+
+---
+
+### PPRows
+
+It Can Calculate how many lines of code you write on Mac
+
+[Github](https://github.com/jkpang/PPRows/blob/master/README_CN.md)
+
+---
+
+
+
+
 
 
