@@ -322,6 +322,13 @@ It Can Calculate how many lines of code you write on Mac
 
 ---
 
+### Dynamic Dark Mode
+
+Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave.
+
+[Github](https://github.com/ApolloZhu/Dynamic-Dark-Mode/)
+
+
 
 
 
