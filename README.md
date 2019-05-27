@@ -328,13 +328,15 @@ Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS 
 
 [Github](https://github.com/ApolloZhu/Dynamic-Dark-Mode/)
 
-
+---
 
 ### IPADownload
 Search and download decrypted IPA file from 3rd-party App Store.
 这是一个搜索并下载 PP 助手应用市场里的 IPA 文件的工具。
 
 [Github](https://github.com/chenjie1219/IPADownload)
+
+---
 
 
 
