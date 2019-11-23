@@ -346,6 +346,22 @@ Display macOS Dock in Touch Bar
 
 ---
 
+### pliim
+One click and be ready to go up on stage and shine!
+
+[Github](https://github.com/zehfernandes/pliim)
+
+---
+
+### browserosaurus
+MacOS tool that prompts you to choose a browser when opening a link
+
+[Github](https://github.com/will-stone/browserosaurus)
+
+---
+
+
+
 
 
 
