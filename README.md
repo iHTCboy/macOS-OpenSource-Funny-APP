@@ -339,5 +339,13 @@ Search and download decrypted IPA file from 3rd-party App Store.
 
 ---
 
+### Pock
+Display macOS Dock in Touch Bar
+
+[Github](https://github.com/pigigaldi/Pock)
+
+---
+
+
 
 
