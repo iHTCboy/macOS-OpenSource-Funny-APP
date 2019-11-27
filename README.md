@@ -367,6 +367,12 @@ Share your Mac's current chrome tab via airdrop
 
 ---
 
+### Peregrine
+Create and Share Gists from the macOS menubar
+
+[Github](https://github.com/hawkfalcon/Peregrine)
+
+---
 
 
 
