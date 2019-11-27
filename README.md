@@ -360,6 +360,12 @@ MacOS tool that prompts you to choose a browser when opening a link
 
 ---
 
+### WebDrop
+Share your Mac's current chrome tab via airdrop
+
+[Github](https://github.com/JustinFincher/WebDrop)
+
+---
 
 
 
