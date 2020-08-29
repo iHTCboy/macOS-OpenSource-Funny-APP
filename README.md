@@ -380,7 +380,7 @@ VisualJSON is simple JSON pretty-viewer for Mac OS X.
 
 Website: http://youknowone.github.com/VisualJSON
 
-[Github](https://github.com/hawkfalcon/Peregrine)
+[Github](http://github.com/youknowone/VisualJSON)
 
 Download recent VisualJSON on Appstore. (http://itunes.apple.com/app/id488709442)
 
@@ -389,6 +389,37 @@ Or try preview if available. (http://github.com/youknowone/VisualJSON/downloads)
 Visit help wiki (http://github.com/youknowone/VisualJSON/wiki)
 
 ---
+
+
+### Cleartext
+
+
+UPDATE January 2020: See <a href="https://textato.com">Textato</a> for an updated version of this app. 
+
+#### <a href="https://github.com/mortenjust/cleartext-mac/releases">Download for Mac 10.11+</a>
+Follow <a href="http://twitter.com/mortenjust">@mortenjust</a> on Twitter for updates. 
+
+#### What's this?
+A text editor that only allows the 1,000 most common words in English
+
+I just got Randall Munroe's new book <a href="https://xkcd.com/thing-explainer/">Thing Explainer</a>. Only using the top 1,000 words makes the text really easy to read. I thought I would make it easy for people to write like this, so I made this application. It's cool to be clear.
+
+<img src="https://raw.githubusercontent.com/mortenjust/cleartext-mac/master/UX/cleartext.gif">
+
+
+[Github](https://github.com/mortenjust/cleartext-mac)
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
 
