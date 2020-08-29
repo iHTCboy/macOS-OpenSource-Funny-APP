@@ -412,10 +412,18 @@ I just got Randall Munroe's new book <a href="https://xkcd.com/thing-explainer/"
 ---
 
 
+### Drop to GIF
 
 
+Zero-click movie to GIF conversion. Select a folder to watch and every movie saved or moved into that folder will be converted to an animated GIF.
+
+<img width=300 src="https://raw.githubusercontent.com/mortenjust/droptogif/master/ux/demos/demo_app.png">
 
 
+[Github](https://github.com/mortenjust/droptogif)
+
+
+---
 
 
 
