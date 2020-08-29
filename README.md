@@ -374,6 +374,21 @@ Create and Share Gists from the macOS menubar
 
 ---
 
+### VisualJSON
+
+VisualJSON is simple JSON pretty-viewer for Mac OS X.
+
+Website: http://youknowone.github.com/VisualJSON
+
+[Github](https://github.com/hawkfalcon/Peregrine)
+
+Download recent VisualJSON on Appstore. (http://itunes.apple.com/app/id488709442)
+
+Or try preview if available. (http://github.com/youknowone/VisualJSON/downloads)
+
+Visit help wiki (http://github.com/youknowone/VisualJSON/wiki)
+
+---
 
 
 
