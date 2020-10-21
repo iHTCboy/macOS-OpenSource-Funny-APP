@@ -430,8 +430,33 @@ Zero-click movie to GIF conversion. Select a folder to watch and every movie sav
 ---
 
 
+### SymbolicatorX
+
+iOS/Mac 项目崩溃文件自动符号化工具.
+
+#### 主要功能:
+- Crash 文件自动查找匹配的 dSYM 文件并解析
+- iOS 设备日志直接浏览,崩溃日志导入
+- App 沙盒内文件浏览与导出
+- ipa 包安装
+
+#### 使用方法:
+Crash 文件符号化,自动定位崩溃位置
+![](https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo1.gif)
+
+设备崩溃日志直接导入使用
+![](https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo2.gif)
+
+App 沙盒内文件浏览与导出
+![](https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo3.gif)
+
+ipa 包安装
+![](https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo4.gif)
+
+[Github](https://github.com/Yueoaix/SymbolicatorX)
 
 
+---
 
 
 
