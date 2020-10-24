@@ -463,5 +463,22 @@ ipa 包安装
 
 ---
 
+### NTFS Tool
+
+A free software that provides NTFS read and write support for Apple computers
+
+
+![ntfstool-main1.png](https://github.com/ntfstool/ntfstool/blob/1.0.2/static/github/ntfs-display.jpg?raw=true)
+
+
+[Github](https://github.com/ntfstool/ntfstool)
+
+[Official Website](https://ntfstool.com)
+
+
+
+---
+
+
 
 
