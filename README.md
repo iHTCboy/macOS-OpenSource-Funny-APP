@@ -493,6 +493,7 @@ e.g. [Electron](https://www.electronjs.org) or
 itself is a [SwiftUI](https://developer.apple.com/xcode/swiftui/) 1
 macOS application (i.e. it runs on Catalina and macOS BS).
 
+![5guis-automator](https://zeezide.com/img/5guis/screenshots/appwindow/5guis-automator.png)
 
 
 [Github](https://github.com/ZeeZide/5GUIs)
@@ -500,8 +501,15 @@ macOS application (i.e. it runs on Catalina and macOS BS).
 
 ---
 
+### XcodeCleaner-SwiftUI
 
+This app helps you to make your Xcode faster by removing unwanted and deprecated files. You can run cleaner weekly or monthly to keep your developer folder health and to save more disk space.
 
+这个应用可以帮助你清除遗留以及废弃文件，从而极大的节省硬盘空间. 你可以每月或者每周运行一次进行清理。
 
+![screenshot](https://github.com/waylybaye/XcodeCleaner-SwiftUI/raw/master/screenshot.png)
 
+[Github](https://github.com/waylybaye/XcodeCleaner-SwiftUI)
+
+---
 
