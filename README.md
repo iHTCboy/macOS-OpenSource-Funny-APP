@@ -441,22 +441,12 @@ iOS/Mac 项目崩溃文件自动符号化工具.
 - ipa 包安装
 
 #### 使用方法:
-Crash 文件符号化,自动定位崩溃位置
 
-<img width=600 src="https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo1.gif">
+- Crash 文件符号化,自动定位崩溃位置
+- 设备崩溃日志直接导入使用
+- App 沙盒内文件浏览与导出
+- ipa 包安装
 
-
-设备崩溃日志直接导入使用
-
-<img width=600 src="https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo2.gif">
-
-App 沙盒内文件浏览与导出
-
-<img width=600 src="https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo3.gif">
-
-ipa 包安装
-
-<img width=600 src="https://github.com/Yueoaix/SymbolicatorX/raw/master/Demo/Demo4.gif">
 
 [Github](https://github.com/Yueoaix/SymbolicatorX)
 
