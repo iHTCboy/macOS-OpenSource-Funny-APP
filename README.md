@@ -479,6 +479,29 @@ A free software that provides NTFS read and write support for Apple computers
 
 ---
 
+### The 5 GUIs Application
+
+[5 GUIs](https://zeezide.com/en/products/5guis/index.html) 
+first grabs some information from the app bundle. 
+It then uses [LLVM](https://llvm.org)'s 
+[`objdump`](https://en.wikipedia.org/wiki/Objdump) 
+to check what libraries the app links,
+e.g. [Electron](https://www.electronjs.org) or 
+[UIKit](https://developer.apple.com/documentation/uikit), to figure out what technology is being used.
+
+[5 GUIs](https://zeezide.com/en/products/5guis/index.html) 
+itself is a [SwiftUI](https://developer.apple.com/xcode/swiftui/) 1
+macOS application (i.e. it runs on Catalina and macOS BS).
+
+
+
+[Github](https://github.com/ZeeZide/5GUIs)
+
+
+---
+
+
+
 
 
 
