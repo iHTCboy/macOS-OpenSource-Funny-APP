@@ -503,3 +503,12 @@ This app helps you to make your Xcode faster by removing unwanted and deprecated
 
 ---
 
+### Downloader for Apple Developers
+
+
+Download Xcode and other developer tools up to 16 times faster with resume capability.
+
+[Github](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)
+
+
+---
