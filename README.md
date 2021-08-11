@@ -512,3 +512,20 @@ Download Xcode and other developer tools up to 16 times faster with resume capab
 
 
 ---
+
+### SwitchHosts
+
+SwitchHosts 是一个管理 hosts 文件的应用，基于 [Electron](http://electron.atom.io/)
+、[React](https://facebook.github.io/react/)、[UmiJS](https://umijs.org/)
+、[Chakra UI](https://chakra-ui.com/)、[CodeMirror](http://codemirror.net/) 等技术开发。
+
+<img src="https://raw.githubusercontent.com/oldj/SwitchHosts/master/screenshots/sh_light.png" alt="Capture" width="960">
+
+项目主页：[https://swh.app](https://swh.app)
+
+[Github](https://github.com/oldj/SwitchHosts)
+
+---
+
+
+
