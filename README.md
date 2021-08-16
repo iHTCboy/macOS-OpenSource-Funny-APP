@@ -527,5 +527,19 @@ SwitchHosts 是一个管理 hosts 文件的应用，基于 [Electron](http://ele
 
 ---
 
+### Knuff
+
+The debug application for Apple Push Notification Service (APNs).
+
+[Download the latest version](https://github.com/KnuffApp/Knuff/releases "Download")
+
+![knuff-preview](https://cloud.githubusercontent.com/assets/499192/12481271/36b610e0-c048-11e5-9be6-ee9e996036a2.png)
+
+[Github](https://github.com/KnuffApp/Knuff)
+
+---
+
+
+
 
 
