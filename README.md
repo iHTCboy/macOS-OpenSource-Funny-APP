@@ -548,5 +548,17 @@ The debug application for Apple Push Notification Service (APNs).
 
 ![RuntimeBrowser](https://github.com/nst/RuntimeBrowser/blob/master/art/screenshot.png)
 
+[Github](https://github.com/nst/RuntimeBrowser)
 
 ---
+
+### eul
+
+🖥️ macOS status monitoring app written in SwiftUI.
+
+![eul](https://user-images.githubusercontent.com/14722250/105626766-f718ab00-5e6c-11eb-9761-661ff85c8faf.jpg)
+
+[Github](https://github.com/gao-sun/eul)
+
+---
+
