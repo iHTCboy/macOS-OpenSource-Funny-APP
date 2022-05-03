@@ -562,3 +562,13 @@ The debug application for Apple Push Notification Service (APNs).
 
 ---
 
+### Dozer
+
+Dozer: Hide menu bar icons on macOS
+
+![Dozer](https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif)
+
+[Github](https://github.com/Mortennn/Dozer)
+
+---
+
