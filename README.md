@@ -572,3 +572,15 @@ Dozer: Hide menu bar icons on macOS
 
 ---
 
+### RustDesk
+
+RustDesk: Open source remote desktop software | The Open Source TeamViewer Alternative
+
+![RustDesk](https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png)
+
+[Github](https://github.com/rustdesk/rustdesk)
+
+---
+
+
+
